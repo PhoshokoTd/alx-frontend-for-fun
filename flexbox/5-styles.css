@@ -196,6 +196,9 @@
   .col-1-2 {
     width: calc((100% / 2) - 2rem);
   }
+
+   /* Navbar
+      ============================= */
   
   .nav {
     margin: 0;
@@ -245,9 +248,9 @@
   
   .header {
     padding: var(--header-padding);
-         position: relative;
-         z-index: 3;
-         background: transparent;
+    position: relative;
+    z-index: 3;
+    background: transparent;
   }
 
   .header-container {
